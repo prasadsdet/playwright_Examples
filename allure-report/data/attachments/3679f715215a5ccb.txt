@@ -1,0 +1,2 @@
+Running my test
+Finished my test with status passed
